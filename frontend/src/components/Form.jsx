@@ -48,3 +48,5 @@ function Form({route, method}) {
         <button className="button" type="submit">{name}</button>
     </form>
 }
+
+export default Form
